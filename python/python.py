@@ -3,4 +3,8 @@ def hello (user2)
 def greeting ()
     pass
 
+def call_me (user )
+    print "hello"
+
+
 	
