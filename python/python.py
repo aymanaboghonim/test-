@@ -1,7 +1,7 @@
 def hello (user2)
     pass
 def greeting ()
-    pass
+    print "greeting "
 
 def call_me (user )
     print "hello"
